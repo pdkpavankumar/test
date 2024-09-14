@@ -1,1 +1,1 @@
-test ext
+sample ext
